@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/databaseProject/static/css/main.c363bd2f.css",
-    "main.js": "/databaseProject/static/js/main.bbc2940d.js",
-    "static/js/453.981ad057.chunk.js": "/databaseProject/static/js/453.981ad057.chunk.js",
+    "main.css": "/databaseProject/static/css/main.4f7de0fa.css",
+    "main.js": "/databaseProject/static/js/main.e40a86e7.js",
     "index.html": "/databaseProject/index.html",
-    "main.c363bd2f.css.map": "/databaseProject/static/css/main.c363bd2f.css.map",
-    "main.bbc2940d.js.map": "/databaseProject/static/js/main.bbc2940d.js.map",
-    "453.981ad057.chunk.js.map": "/databaseProject/static/js/453.981ad057.chunk.js.map"
+    "main.4f7de0fa.css.map": "/databaseProject/static/css/main.4f7de0fa.css.map",
+    "main.e40a86e7.js.map": "/databaseProject/static/js/main.e40a86e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c363bd2f.css",
-    "static/js/main.bbc2940d.js"
+    "static/css/main.4f7de0fa.css",
+    "static/js/main.e40a86e7.js"
   ]
 }
